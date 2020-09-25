@@ -1,0 +1,14 @@
+C:\Users\Lukas\Documents\school2021\pos\WPF_Calculator\wpf_calc\wpf_calc\obj\Debug\wpf_calc.csprojAssemblyReference.cache
+C:\Users\Lukas\Documents\school2021\pos\WPF_Calculator\wpf_calc\wpf_calc\obj\Debug\App.g.cs
+C:\Users\Lukas\Documents\school2021\pos\WPF_Calculator\wpf_calc\wpf_calc\obj\Debug\wpf_calc_MarkupCompile.cache
+C:\Users\Lukas\Documents\school2021\pos\WPF_Calculator\wpf_calc\wpf_calc\bin\Debug\wpf_calc.exe.config
+C:\Users\Lukas\Documents\school2021\pos\WPF_Calculator\wpf_calc\wpf_calc\bin\Debug\wpf_calc.exe
+C:\Users\Lukas\Documents\school2021\pos\WPF_Calculator\wpf_calc\wpf_calc\bin\Debug\wpf_calc.pdb
+C:\Users\Lukas\Documents\school2021\pos\WPF_Calculator\wpf_calc\wpf_calc\obj\Debug\MainWindow.g.cs
+C:\Users\Lukas\Documents\school2021\pos\WPF_Calculator\wpf_calc\wpf_calc\obj\Debug\wpf_calc_MarkupCompile.lref
+C:\Users\Lukas\Documents\school2021\pos\WPF_Calculator\wpf_calc\wpf_calc\obj\Debug\MainWindow.baml
+C:\Users\Lukas\Documents\school2021\pos\WPF_Calculator\wpf_calc\wpf_calc\obj\Debug\wpf_calc.g.resources
+C:\Users\Lukas\Documents\school2021\pos\WPF_Calculator\wpf_calc\wpf_calc\obj\Debug\wpf_calc.Properties.Resources.resources
+C:\Users\Lukas\Documents\school2021\pos\WPF_Calculator\wpf_calc\wpf_calc\obj\Debug\wpf_calc.csproj.GenerateResource.cache
+C:\Users\Lukas\Documents\school2021\pos\WPF_Calculator\wpf_calc\wpf_calc\obj\Debug\wpf_calc.exe
+C:\Users\Lukas\Documents\school2021\pos\WPF_Calculator\wpf_calc\wpf_calc\obj\Debug\wpf_calc.pdb

@@ -1,0 +1,54 @@
+﻿<Window x:Class="wpf_calc.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wpf_calc"
+        mc:Ignorable="d"
+        Title="Calculator" Height="450" Width="800" MinHeight="420" MinWidth="500">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="20" />
+            <ColumnDefinition Width="70" MinWidth="70"/>
+            <ColumnDefinition Width="70" />
+            <ColumnDefinition Width="70" />
+            <ColumnDefinition Width="2*" />
+            <ColumnDefinition Width="70" />
+            <ColumnDefinition Width="70" />
+            <ColumnDefinition Width="20" />
+        </Grid.ColumnDefinitions>
+
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20" />
+            <RowDefinition Height="2*" />
+            <RowDefinition Height="70" />
+            <RowDefinition Height="70" />
+            <RowDefinition Height="70" />
+            <RowDefinition Height="70" />
+            <RowDefinition Height="20" />
+        </Grid.RowDefinitions>
+
+        <Button Name="n1" Grid.Row="2" Grid.Column="1" Content="_1" Margin="5,10,0,0" />
+        <Button Name="n2" Grid.Row="2" Grid.Column="2" Content="_2" Margin="5,10,0,0" />
+        <Button Name="n3" Grid.Row="2" Grid.Column="3" Content="_3" Margin="5,10,0,0" />
+        <Button Name="n4" Grid.Row="3" Grid.Column="1" Content="_4" Margin="5,10,0,0" />
+        <Button Name="n5" Grid.Row="3" Grid.Column="2" Content="_5" Margin="5,10,0,0" />
+        <Button Name="n6" Grid.Row="3" Grid.Column="3" Content="_6" Margin="5,10,0,0" />
+        <Button Name="n7" Grid.Row="4" Grid.Column="1" Content="_7" Margin="5,10,0,0" />
+        <Button Name="n8" Grid.Row="4" Grid.Column="2" Content="_8" Margin="5,10,0,0" />
+        <Button Name="n9" Grid.Row="4" Grid.Column="3" Content="_9" Margin="5,10,0,0" />
+        <Button Name="n0" Grid.Row="5" Grid.Column="2" Content="_0" Margin="5,10,0,0" />
+
+        <Button Name="add" Grid.Row="2" Grid.Column="5" Content="_+" Margin="5,10,0,0" />
+        <Button Name="sum" Grid.Row="2" Grid.Column="6" Content="_=" Grid.RowSpan="3" Margin="5,10,0,0" />
+        <Button Name="dec" Grid.Row="3" Grid.Column="5" Content="_-" Margin="5,10,0,0" />
+        <Button Name="mul" Grid.Row="4" Grid.Column="5" Content="_*" Margin="5,10,0,0" />
+        <Button Name="div" Grid.Row="5" Grid.Column="5" Content="_/" Margin="5,10,0,0" />
+        <Button Name="clear" Grid.Row="5" Grid.Column="6" Content="_C" Margin="5,10,0,0" />
+
+        <TextBlock Name="Ergebnis" Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="6" TextAlignment="Center" VerticalAlignment="Center" FontSize="18" FontWeight="Bold" Margin="0,15,0,15" Visibility="Visible" />
+
+
+    </Grid>
+</Window>
